@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure.Storage.Liberation", "Azure.Storage.Liberation\Azure.Storage.Liberation.csproj", "{7DC21E12-B368-49A8-B4BC-E2F68E09F41A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC21E12-B368-49A8-B4BC-E2F68E09F41A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC21E12-B368-49A8-B4BC-E2F68E09F41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC21E12-B368-49A8-B4BC-E2F68E09F41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC21E12-B368-49A8-B4BC-E2F68E09F41A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

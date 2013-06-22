@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+    <metadata>
+        <id>Azure.Storage.Liberation</id>    
+        <title>Azure.Storage.Liberation</title>
+        <version>$version$</version>
+        <authors>Cloudant</authors>
+        <copyright>Copyright 2013 Cloudant</copyright>
+        <summary>A small collection of useful classes and extensions for bulk extraction of data from Azure Table Storage.</summary>
+        <description>
+            A small collection of useful classes and extensions for bulk extraction of data from Azure Table Storage.
+        </description>
+        <projectUrl>https://github.com/cloudant-labs/azure-storage-liberation</projectUrl>
+        <licenseUrl>https://github.com/cloudant-labs/azure-storage-liberation#license</licenseUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>       
+        <tags>azure cloudtable observable bulk export json dynamictableentity</tags>
+        <dependencies>
+            <dependency id="Newtonsoft.Json" version="5.0.4" />
+			<dependency id="Rx-Main" version="2.1" />
+			<dependency id="WindowsAzure.Storage" version="2.0.5" />
+        </dependencies>
+    </metadata>
+    <files>
+      <file src="*\Azure.Storage.Liberation.dll" target="lib\net40-Client" />
+      <file src="*\Azure.Storage.Liberation.xml" target="lib\net40-Client" />
+    </files>
+</package>

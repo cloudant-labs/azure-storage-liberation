@@ -1,0 +1,10 @@
+[Oo]bj/
+[Oo]bj-3.5/
+[Bb]in/
+*.suo
+*.user
+_ReSharper.*
+*.ReSharper
+*.resharper.user
+[Pp]ackages/
+[Bb]uild/
