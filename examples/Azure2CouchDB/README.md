@@ -1,4 +1,4 @@
-# Azure2Couch #
+# Azure2CouchDB #
 A simple example of a .NET Console application which reads rows in batches from Azure Table Storage and imports them into CouchDB / Cloudant via a JSON transformation step. 
 
 This example does not cope with incremental export or pause / resume (e.g. if your Azure data is changing during the export) because implementations would have to be specific to you application / data model.
