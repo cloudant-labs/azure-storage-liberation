@@ -44,6 +44,14 @@ This can easily be extended to customise the JSON, for example:
 
 ## Examples ##
 
+### Azure -> CouchDB migration ###
+
+A simple example of a .NET Console application which reads rows in batches from Azure Table Storage and imports them into CouchDB / Cloudant via a JSON transformation step. 
+
+See [examples/Azure2CouchDB](examples/Azure2CouchDB "Azure2CouchDB").
+
+
+
 ### Export each table in the storage account to a JSON file ###
 
 	var storageAccount = new CloudStorageAccount(new StorageCredentials(<accountName>, <accesskey>), true);
