@@ -6,9 +6,6 @@ If you just want the helper classes and extension methods, you can use the NuGet
 
 If you want to build the library / examples yourself, you need Visual Studio 2012 and ruby / rake. Run setup-devenv.bat to install any required dependencies.
 
-## Documentation ##
-The documentation is contained in the [project wiki](https://github.com/cloudant-labs/azure-storage-liberation/wiki).
-
 ## License ##
 The MIT License (MIT)
 
